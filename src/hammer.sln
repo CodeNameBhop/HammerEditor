@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hammer_dll", "hammer\hammer_dll.vcxproj", "{2D468BFA-79E6-4E1D-842B-1E0AE60400F2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hammer_launcher", "hammer_launcher\hammer_launcher.vcxproj", "{450E4609-31C3-4875-A8B0-C008DE3AE3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D468BFA-79E6-4E1D-842B-1E0AE60400F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D468BFA-79E6-4E1D-842B-1E0AE60400F2}.Debug|Win32.Build.0 = Debug|Win32
+		{2D468BFA-79E6-4E1D-842B-1E0AE60400F2}.Release|Win32.ActiveCfg = Release|Win32
+		{2D468BFA-79E6-4E1D-842B-1E0AE60400F2}.Release|Win32.Build.0 = Release|Win32
+		{450E4609-31C3-4875-A8B0-C008DE3AE3ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{450E4609-31C3-4875-A8B0-C008DE3AE3ED}.Debug|Win32.Build.0 = Debug|Win32
+		{450E4609-31C3-4875-A8B0-C008DE3AE3ED}.Release|Win32.ActiveCfg = Release|Win32
+		{450E4609-31C3-4875-A8B0-C008DE3AE3ED}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
